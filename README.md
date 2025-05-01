@@ -1,6 +1,6 @@
 # Flask Healthcheck API (Dockerised)
 
-This is a lightweight Flask API that returns JSON character data — containerised using Docker with a proper **Docker health check**.
+This is a lightweight Flask API that returns JSON character data and is containerised using Docker with a proper **Docker health check**.
 
 I built this to practise using Alpine-based Docker images and to explore how Docker uses health checks to detect app failures in production (e.g. ECS, Kubernetes, etc.).
 
